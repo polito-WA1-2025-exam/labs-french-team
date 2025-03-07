@@ -1,11 +1,11 @@
-# Group "GROUP NAME"
+# Group "French Team"
 
 ## Members
-- s123456 LASTNAME FIRSTNAME
+- s347609 Collot Cyrille
 - s123456 LASTNAME FIRSTNAME
 - s123456 LASTNAME FIRSTNAME
 
-# Exercise "NAME OF EXERCISE"
+# Exercise "Guess Who"
 
 # Lab Journal
 
