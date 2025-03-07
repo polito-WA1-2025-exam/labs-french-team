@@ -2,7 +2,7 @@
 
 ## Members
 - s347609 Collot Cyrille
-- s123456 LASTNAME FIRSTNAME
+- s347518 Taranto Benjamin
 - s123456 LASTNAME FIRSTNAME
 
 # Exercise "Guess Who"
