@@ -3,7 +3,7 @@
 ## Members
 - s347609 Collot Cyrille
 - s347518 Taranto Benjamin
-- s123456 Lachaud Franck
+- s347693 Lachaud Franck
 
 # Exercise "Guess Who"
 
