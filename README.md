@@ -9,4 +9,39 @@
 
 # Lab Journal
 
-(you may update this file to keep track of the progress of your group work, throughout the weeks)
+### Table of Politicians
+
+Name: identifier
+
+Age: young or old (>60 yo)
+
+Hair color: black, brown, blonde, white, red
+
+Skin color: white, olive, brown
+
+Eye color: black, brown, green, blue
+
+Glasses: yes or no
+
+Beard: yes or no
+
+Sex: male, female or X
+
+Alive: yes or no
+
+Elected: yes or no
+
+Continent: Europe, Asia, Africa, Oceania, North America, South America, Antartica
+
+Political orientation: authoritarianism, communism, conservatism, liberalism, ...
+https://en.wikipedia.org/wiki/List_of_political_ideologies
+
+War during active years: yes or no
+
+Politician career: yes or no (if they had another job before becoming leader)
+
+Multiple times in power: yes or no
+
+Children: yes or no
+
+Assassination attempt: yes or no
