@@ -33,14 +33,14 @@ Elected: yes or no
 
 Continent: Europe, Asia, Africa, Oceania, North America, South America, Antartica
 
-Political orientation: authoritarianism, communism, conservatism, liberalism, ...
+Political orientation: authoritarianism, communism, conservatism, democracy, fascism, liberalism, libertarianism, nationalism, populism, social democracy, socialism
 https://en.wikipedia.org/wiki/List_of_political_ideologies
 
 War during active years: yes or no
 
 Politician career: yes or no (if they had another job before becoming leader)
 
-Multiple times in power: yes or no
+Multiple times in power: yes or no (like multiple mandates if applicable)
 
 Children: yes or no
 
